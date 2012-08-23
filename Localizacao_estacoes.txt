@@ -1,0 +1,82 @@
+Póvoa de Varzim, 282 154
+São Brás, 325 228
+Portas Fronhas, 365 308
+Alto de Pega, 406 386
+Vila do Conde, 451 471
+Santa Clara, 516 541
+Azurara, 595 675
+Árvore, 610 762
+Varziela, 632 858
+Espaço Natureza, 695 958
+Mindelo, 788 1074
+Modivas Centro, 870 1175
+Modivas Sul, 956 1282
+Vilar do Pinheiro, 1037 1380
+Lidador, 1111 1473
+Pedras Rubras, 1196 1580
+Verdes, 1238 1712
+Crestins, 1242 1772
+Esposade, 1248 1908
+Custóias, 1257 2048
+Fonte do Cuco, 1278 2273
+Cândido dos Reis, 1340 2168
+Pias, 1435 2108
+Araújo, 1538 2048
+Custió, 1651 1982
+Parque Maia, 1761 1914 
+Fórum Maia, 1823 1830
+Zona Industrial, 1867 1724
+Mandim, 1910 1613
+Castêlo da Maia, 1947 1517
+ISMAI, 1998 1419
+Senhora da Hora, 1284 2383
+Sete Bicas, 1292 2525
+Viso, 1316 2683
+Ramalde, 1376 2801
+Francos, 1457 2893
+Casa da Música, 1536 2971
+Carolina Michaëlis, 1630 3061
+Lapa, 1718 3148
+Trindade, 1795 3226
+Bolhão, 1891 3314 
+Campo 24 de Agosto, 2007 3425
+Heroísmo, 2142 3471
+Campanhã, 2275 3373
+Estádio do Dragão, 2352 3123
+Contumil, 2440 3010
+Nasoni, 2507 2925
+Nau Vitória, 2587 2835
+Levada, 2682 2734
+Rio Tinto, 2749 2662
+Campainha, 2819 2586
+Baguim, 2923 2493
+Carreira, 3022 2504
+Venda Nova, 3089 2617
+Fânzeres, 3061 2778
+Botica, 1086 1661
+Aeroporto, 956 1623
+Vasco da Gama, 1131 2312
+Estádio do Mar, 1063 2465
+Pedro Hispano, 1011 2610
+Parque Real, 928 2650
+Câmara Matosinhos, 790 2651
+Matosinhos Sul, 707 2650
+Brito Capelo, 623 2561
+Mercado, 660 2463
+Senhor de Matosinhos, 755 2399
+Faria Guimarães, 1877 3166
+Marquês, 2028 3059
+Combatentes, 2121 2994
+Salgueiros, 2165 2857
+Pólo Universitário, 2125 2672
+IPO, 2090 2506
+Hospital de São João, 2165 2435
+TrindadeD, 1824 3239
+Aliados, 1745 3376
+São Bento, 1750 3471
+Jardim do Morro, 1864 3700
+General Torres, 1904 3783
+Câmara Gaia, 1936 3851
+João de Deus, 1949 3924
+D. João II, 1942 4008
+Santo Ovídio, 1931 4095
